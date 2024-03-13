@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blanchedalmond;
+
+
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+}
+
+$colores-pag: (
+    fondo: black
+      
+)
